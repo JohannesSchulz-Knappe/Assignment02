@@ -18,3 +18,8 @@ Besides this readme, there are two files in the repository
 
 - [Assignment02.Rmd](https://github.com/JohannesSchulz-Knappe/Assignment02/blob/master/Assignment02.Rmd) which contains or main research proposal
 - [Library.bib](https://github.com/JohannesSchulz-Knappe/Assignment02/blob/master/Library.bib) which contains the references cited in our proposal
+
+### Project progress
+
+During the work on this project, we faced mainly two obstacles: 1) The restricted availability of one of us to contribute to the project due to extended illness, and 2) the difficulty finding an adequate research question. After trying to access several electoral datasets on European level, we decided to narrow the scope of our research project down in order to keep data cleaning work at a reasonable level and to deal with a more pronounced research question. The substantial electoral success of a very young party in the German states in March 2016 finally inspired us to the research question presented in the proposal.
+
