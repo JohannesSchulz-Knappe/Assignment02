@@ -1,5 +1,5 @@
 ---
-title: "Assignment 2 - Research Proposal"
+title: "Assignment 2 - Research Proposal on "What does explain the recent electoral success of the AfD in the different state constituencies of Germany"
 author: "Md Mujahedul Islam" "Johannes Schulz-Knappe"
 date: "April 14, 2016"
 output: 
