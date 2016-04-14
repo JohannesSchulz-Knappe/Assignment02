@@ -17,17 +17,17 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction
 
-This research proposal is the second assignment for the course [MPP-E1180: Introduction to Collaborative Social Science Data Analysis](https://github.com/HertieDataScience/SyllabusAndLectures), taught by [Christopher Gandrud](https://github.com/christophergandrud) at the Hertie School of Governance in spring term 2016. In this proposal, we select our research topic, provide information on its relevance, present current literature, and identify the datasets and methodology that we are going to base our work on. All work is done using the software R [@CiteR].
+Within less than three years of being founded by discontented members of the incumbent Christian Democratic Union (CDU), the newly-formed Alternative for Germany (AfD) party has already achieved extraordinary vote share in the General election of 2013, European Parliament election of 2014, [@article{arzheimer2015afd,] and  lately in the three state elections in Bade-WÃ¼rttemberg, Rhineland-Palatinate, and Saxony-Anhalt held on May 2016. The rise of a party that stands against European Integration, argues for a re-arrangement of Germany's liberal foreign and economic policies, and  vows for talking strong measure against immigrants, has brought a novel scenario into understanding factors that drive electorate to vote for a seemingly a party that stands against the 'norm of the land'. Thus in this research proposal endeavors to understanding factors that explain the success and rise of AfD into Germany politcal landscape. In the following, this proposal introduces the topic to be researched, provides information on its relevance, presents current literature, and identifies the plausible datasets and methodology that this research is going to base on. All work is done using the software R [@CiteR].
 
 
 # The Research Project
 
-On March 13, 2016, Germany's political landscape experienced "a landslide"[@Zeit2016]. At the three state elections in Bade-Württemberg, Rhineland-Palatinate, and Saxony-Anhalt, the young party "Alternative für Deutschland" (Alternative for Germany) received double digit results from scratch, meaning that it has not been present in the state parliaments before. In Baden-Württemberg (BW), the party received 15.1%, in Rhineland-Palatinate (RP) 12.6%, and in Saxony-Anhalt (SA) even 24.3% [@BWStateOffice; @RPStateOffice; @SAStateOffice], becoming the third strongest party in BW and RP, and the second strongest in SA.
+On March 13, 2016, Germany's political landscape experienced "a landslide"[@Zeit2016]. At the three state elections in Bade-WÃ¼rttemberg, Rhineland-Palatinate, and Saxony-Anhalt, the young party "Alternative fÃ¼r Deutschland" (Alternative for Germany) received double digit results from scratch, meaning that it has not been present in the state parliaments before. In Baden-WÃ¼rttemberg (BW), the party received 15.1%, in Rhineland-Palatinate (RP) 12.6%, and in Saxony-Anhalt (SA) even 24.3% [@BWStateOffice; @RPStateOffice; @SAStateOffice], becoming the third strongest party in BW and RP, and the second strongest in SA.
 Not only does the tremendous success of this new policital player harden the set up of the future governments in the respective states [@Spiegel2016], it is also a clear sign that the party has arrived in mainstream politics in Germany. There is currently a lot of public discussion on the reasons for this success, which is why we consider it to be important to understand in which environments the AfD could gain support.
 
 We want to analyze: 
 
-*"What explains the electoral success of the AfD in the different state constituencies in Baden-Württemberg, Rhineland-Palatinate, and Saxony-Anhalt"*. 
+*"What explains the electoral success of the AfD in the different state constituencies in Baden-WÃ¼rttemberg, Rhineland-Palatinate, and Saxony-Anhalt"*. 
 
 We want to understand which structural factors correlate the vote share and whether the characteristics of AfD voters identified in post-election analyses are reflected in the constituency level data. Furthermore, we want to find out whether the AfD success follows the same patterns as the electoral success of radical right populist parties in the rest of western Europe.
 
@@ -85,7 +85,7 @@ Political hypotheses
 
 # Data sources and Methodology
 
-We acess the electoral data via the State Offices for Statistic in Baden-Württemberg [@BWStateOffice], Rhineland-Palatinate [@RPStateOffice], and Saxony-Anhalt [@SAStateOffice]. We will use the datasets on the March 2016 and the previous two elections in order to retrieve the secondary vote share of the AfD as our dependent variable, and the previous vote shares of right and left wing parties for hypotheses H4b and H4c. The rate of previous non-voters is also retreived from these datasets.
+We acess the electoral data via the State Offices for Statistic in Baden-WÃ¼rttemberg [@BWStateOffice], Rhineland-Palatinate [@RPStateOffice], and Saxony-Anhalt [@SAStateOffice]. We will use the datasets on the March 2016 and the previous two elections in order to retrieve the secondary vote share of the AfD as our dependent variable, and the previous vote shares of right and left wing parties for hypotheses H4b and H4c. The rate of previous non-voters is also retreived from these datasets.
 The Federal Returning Officer [@Bwldata] offers data on constituency level containing information on the unemployment rate, the level of education, and business tax (which we will use as a proxy for local taxation).
 The Federal Statistical Office DESTATIS [@DESTATIS] provides data on gender and the number of refugees in the constituencies. This data is available on county level, which is why will disaggregate the data according to the population size in each constituency.
 
