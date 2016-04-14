@@ -23,7 +23,7 @@ Within less than three years of being founded by discontented members of the inc
 # The Research Project
 
 On March 13, 2016, Germany's political landscape experienced "a landslide"[@Zeit2016]. At the three state elections in Bade-Württemberg, Rhineland-Palatinate, and Saxony-Anhalt, the young party "Alternative für Deutschland" (Alternative for Germany) received double digit results from scratch, meaning that it has not been present in the state parliaments before. In Baden-Württemberg (BW), the party received 15.1%, in Rhineland-Palatinate (RP) 12.6%, and in Saxony-Anhalt (SA) even 24.3% [@BWStateOffice; @RPStateOffice; @SAStateOffice], becoming the third strongest party in BW and RP, and the second strongest in SA.
-Not only does the tremendous success of this new policital player harden the set up of the future governments in the respective states [@Spiegel2016], it is also a clear sign that the party has arrived in mainstream politics in Germany. There is currently a lot of public discussion on the reasons for this success, which is why we consider it to be important to understand in which environments the AfD could gain support.
+Not only does the tremendous success of this new policital player harden the set up of the future governments in the respective states [@Spiegel2016], it is also a clear sign that the party has arrived in mainstream politics in Germany. Thus the rise of a party that is known as Eurosceptic, believed to reshuffle Germany's current liberal foreign and economic policies, and  argued to take tought immigration policies, has presented us a novel scenario into understanding factors that are leading to the success of AfD. 
 
 We want to analyze: 
 
