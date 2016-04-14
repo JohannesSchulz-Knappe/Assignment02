@@ -1,5 +1,5 @@
 ---
-title: "Assignment 2 - Research Proposal"
+title: "Assignment 2 - Research Proposal on "What does explain the recent electoral success of the AfD in the different state constituencies of Germany"
 author: "Md Mujahedul Islam" "Johannes Schulz-Knappe"
 date: "April 14, 2016"
 output: 
@@ -24,13 +24,13 @@ Within less than three years of being founded by discontented members of the inc
 On March 13, 2016, Germany's political landscape experienced "a landslide"[@Zeit2016]. At the three state elections in Bade-Württemberg, Rhineland-Palatinate, and Saxony-Anhalt, the young party "Alternative für Deutschland" (Alternative for Germany) received double digit results from scratch, meaning that it has not been present in the state parliaments before. In Baden-Württemberg (BW), the party received 15.1%, in Rhineland-Palatinate (RP) 12.6%, and in Saxony-Anhalt (SA) even 24.3% [@BWStateOffice; @RPStateOffice; @SAStateOffice], becoming the third strongest party in BW and RP, and the second strongest in SA.
 Not only does the tremendous success of this new policital player harden the set up of the future governments in the respective states [@Spiegel2016], it is also a clear sign that the party has arrived in mainstream politics in Germany. Thus the rise of a party that is known as Eurosceptic, believed to reshuffle Germany's current liberal foreign and economic policies, and  argued to take tought immigration policies, has presented us a novel scenario into understanding factors that are leading to the success of AfD. 
 
-We want to analyze: 
+# Research Question: 
 
-*"What explains the electoral success of the AfD in the different state constituencies in Baden-Württemberg, Rhineland-Palatinate, and Saxony-Anhalt"*. 
+*"What does explain the electoral success of the AfD in the different state constituencies in Baden-Württemberg, Rhineland-Palatinate, and Saxony-Anhalt? "*. 
 
-We want to understand which structural factors correlate the vote share and whether the characteristics of AfD voters identified in post-election analyses are reflected in the constituency level data. Furthermore, we want to find out whether the AfD success follows the same patterns as the electoral success of radical right populist parties in the rest of western Europe.
+We want to understand which structural factors affect the vote share and whether the characteristics of AfD voters identified in post-election analyses are reflected in the constituency level data. Furthermore, we want to find out whether the AfD success follows the same patterns as the electoral success of radical right populist parties in the rest of western Europe.
 
-# About the AfD
+# AfD: a bried introduction 
 
 Having been founded in February 2013 initially as a eurosceptic party, the AfD just missed the entry into the German national parliament at the federal elections in September 2013 by only 125,000 votes [@schmitt2014euro]. Not a single party in the post-war era was that successful in national elections being only established seven months before[@niedermayer2015neue]. 
 This emergence is attributed to the Eurocrisis and chancelor Merkels strong state interventionist austerity politcs that opened political potential to the right of the established right parties CDU/CSU and FDP. The AfD recognized that potential and positioned itself initially as an expert knowledge based eurosceptic party. But over the last years, it became a new host for now unrepresented national conservatives as well as right wing populists. The unifying factors for these different groups are the anti-establishment attitude of the AfD and the image of being the political underdog that is "honest" in face of political and medial lies. In this regard, the AfD shares similarities to other European right wing populist parties [@hausler2015rechten].
@@ -52,13 +52,20 @@ In their large scale study comparing the electoral success of RRWP parties, @Iva
 
 # Hypotheses
 
-Based on the insights of previous research on the success of RRWP parties in western Europe and the findings of post-election analysis, we propose the following hypotheses for the three state elections.
+Based on the insights of previous research on the success of RRWP parties in western Europe and the findings of post-election analysis, we aim to test the following hypotheses for the three state elections.
 
 Socio-demographic hypotheses
 
 > *H1a*: The average level of education in a constituency has a negative impact on the electoral success of the AfD.
 
+<<<<<<< HEAD
 > *H1b*: The unemployment rate in a constituency has a positive impact on the electoral success of the AfD.
+=======
+> *H1c*: The unemployment rate in a constituency has a positive impact on the electoral success of the AfD.
+
+
+Foreign exposure hypotheses
+>>>>>>> origin/master
 
 Foreign exposure hypothesis
 
