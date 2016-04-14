@@ -25,15 +25,16 @@ This research proposal is the second assignment for the course [MPP-E1180: Intro
 
 # Research Project
 
-On March 13, Germany's political landscape 
+On March 13, 2016, Germany's political landscape experienced "a landslide". At the three state elections in Bade-Württemberg, Rhinland-Palatinate, and Saxony-Anhalt, the party "Alternative für Deutschland" (Alternative for Germany) received double digit results from scratch, not being present in the state parliaments before. In Baden-Württemberg (BW), the party received 15.1%, in Rhineland-Palatinate (RP) 12.6%, and in Saxony-Anhalt (SA) even 24.3%.(Wikipedia 202-205), becoming the third strongest party in BW and RP, and the second strongest in SA.
+Not only does the tremendous success of this new policital player harden the set up of the future governments in the respective states [@Spiegel2016], it is also a clear sign that the party has arrived in mainstream politics in Germany.
 
+In this research project, we want to understand the environment in which the AfD could be that successful. We will analyze the party's success on a constituency level
 
-In the state elections in Bade-Württemberg, Rhinland-Palatinate, and Saxony-Anhalt, the radical right wing populist (RRWP) party Alternative for Germany [AfD] received surprising vote share from 13% to up to 24%. 
-Not only does the success of this new policital player harden the set up of the future governments in the respective states [@Spiegel2016], it is also a clear sign that the party has arrived in mainstream politics in Germany.
+Early electoral analysis also has shown that the AfD was especially successful in mobilizing former non-voters [@Spiegel2016] (better source needed).
 
-Early electoral analysis also has shown that the AfD was especially successful in mobilizing former non-voters [@Spiegel2016] (better source needed)
+As long as the refugee crisis persists, it is assumed that the AfD is going to continue to gain more support [@Spiegel2016].
 
-
+Implications for other parties - For example, within the CDU, the leading conservative party in Germany, a large debate arose whether the refugee crisis response by chancellor Angela Merkal was responsible for the loss in votes. Interestingly, leaders of other parties who supported Merkels "Wir schaffen das" experienced less loss of votes. However, left parties such as "Die Linke" seemed to be especially vulnerable to the emergence of the AfD.[@Spiegel2016]
 
 
 During the federal elections in September 2013, the AfD just missed the entry into the German national parliament by only 125,000 votes [@SchmittBeck2015]. According to @Niedermayer2014, not a single party in the post-war era was that successful in national elections being only established seven months before.
@@ -53,6 +54,17 @@ Second, several descriptive statistics (such as maps, plots and histograms) can 
 Data collection, analysis and presentation is implemented in R [@CiteR].
 
 # Literature review
+
+In a mixed-methods study focussing on the AfD's history, self-description, positioning in the public discourse, and its supporters, @Berbuir2015 found that the party can be described as a "functional equivalent for a right-wing populist party in a country where right-wing politics are strongly stigmatised." [@Berbuir2015] For our research this means that the AfD can be located in the tradtion of new radical right wing populist (RRWP) parties in western Europe.
+
+When it comes to understand the rise of RRWP parties, @Ivarsflaten2008 and @Sweng2004 offer important insights.
+In their large scale study comparing the electoral success of RRWP parties, @Ivarsflaten2008 found that successful RRWP parties almost always used anti-immigration rhethorics in their electoral campaigns. The other two focus areas of RRWP parties - opposing political elitism and complains about the economic development - were not always important for electoral success and seem to be more context specific.
+@Sweng2004 analyzed the impact of globalization on the electoral success of RRWP in western Europe.
+...
+
+
+
+
 
 Citation:
 In addition, we will control for East and West German electoral districts and classical political participation, measures in voter turnout.
