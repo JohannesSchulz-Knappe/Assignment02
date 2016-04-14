@@ -23,21 +23,25 @@ possible_dir <- c('C:/Users/Johannes SK/Dropbox/Studium/Spring2016/Collaborative
 This research proposal is the second assignment for the course [MPP-E1180: Introduction to Collaborative Social Science Data Analysis](https://github.com/HertieDataScience/SyllabusAndLectures), taught by [Christopher Gandrud](https://github.com/christophergandrud) at the Hertie School of Governance in spring term 2016. In this proposal, we select our research topic, provide information on its relevance, present current literature, and identify the datasets and methodology that we are going to base our work on.
 
 
-# Research Project
+# The Research Project
 
-On March 13, 2016, Germany's political landscape experienced "a landslide". At the three state elections in Bade-Württemberg, Rhinland-Palatinate, and Saxony-Anhalt, the party "Alternative für Deutschland" (Alternative for Germany) received double digit results from scratch, not being present in the state parliaments before. In Baden-Württemberg (BW), the party received 15.1%, in Rhineland-Palatinate (RP) 12.6%, and in Saxony-Anhalt (SA) even 24.3%.(Wikipedia 202-205), becoming the third strongest party in BW and RP, and the second strongest in SA.
+On March 13, 2016, Germany's political landscape experienced "a landslide"[@Zeit2016]. At the three state elections in Bade-Württemberg, Rhinland-Palatinate, and Saxony-Anhalt, the young party "Alternative für Deutschland" (Alternative for Germany) received double digit results from scratch, not being present in the state parliaments before. In Baden-Württemberg (BW), the party received 15.1%, in Rhineland-Palatinate (RP) 12.6%, and in Saxony-Anhalt (SA) even 24.3%.(Wikipedia 202-205), becoming the third strongest party in BW and RP, and the second strongest in SA.
 Not only does the tremendous success of this new policital player harden the set up of the future governments in the respective states [@Spiegel2016], it is also a clear sign that the party has arrived in mainstream politics in Germany.
 
 In this research project, we want to understand the environment in which the AfD could be that successful. We will analyze the party's success on a constituency level
 
-Early electoral analysis also has shown that the AfD was especially successful in mobilizing former non-voters [@Spiegel2016] (better source needed).
+
+# Emergence of the AfD
+Having been founded in February 2013 initially as a eurosceptic party, the AfD just missed the entry into the German national parliament at the federal elections in September 2013 by only 125,000 votes [@SchmittBeck2015]. According to @Niedermayer2014, not a single party in the post-war era was that successful in national elections being only established seven months before.
 
 As long as the refugee crisis persists, it is assumed that the AfD is going to continue to gain more support [@Spiegel2016].
 
-Implications for other parties - For example, within the CDU, the leading conservative party in Germany, a large debate arose whether the refugee crisis response by chancellor Angela Merkal was responsible for the loss in votes. Interestingly, leaders of other parties who supported Merkels "Wir schaffen das" experienced less loss of votes. However, left parties such as "Die Linke" seemed to be especially vulnerable to the emergence of the AfD.[@Spiegel2016]
+Implications for other parties - For example, within the CDU, the leading conservative party in Germany, a large debate arose whether the refugee crisis response by chancellor Angela Merkal was responsible for the loss in votes. Interestingly, leaders of other parties who supported Merkels "Wir schaffen das" experienced less loss of votes. However, left parties such as "Die Linke" seemed to be especially vulnerable to the emergence of the AfD.[@Spiegel2016] Also, the social democrats (SPD) seem to have lost many voters to the AfD [@Zeit2016]
+
+Early electoral analysis has shown that the AfD was especially successful in mobilizing former non-voters [@Spiegel2016] (better source needed). It was also very successful amongst labourers and unemployed. In SA, almost on third of this group voted for the AfD. But the analysis also showed that more people with medium education and middle class income voted for the AfD. It is suggested that they are increasingly afraid of change, see the refugee crisis as a culmination of threat, and are sceptical in the governments capacity to solve it.[@Zeit2016]
 
 
-During the federal elections in September 2013, the AfD just missed the entry into the German national parliament by only 125,000 votes [@SchmittBeck2015]. According to @Niedermayer2014, not a single party in the post-war era was that successful in national elections being only established seven months before.
+
 
 
 While electorary analysis already showed from which social groups AfD voter are [^KEY1], we want to use the macro-data on constituency level to understand, how these paterns translate to the reality.
