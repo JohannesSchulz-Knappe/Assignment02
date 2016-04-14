@@ -79,8 +79,6 @@ Political hypotheses
 
 > *H4a*: The rate of non-voters in previous state elections in a constituency has a positive impact on the electoral success of the AfD.
 
-> *H4b*: The vote share of left libertarian parties in previous state elections in a constituency has a positive impact on the electoral success of the AfD.
-
 > *H4c*: Declining voteshare of established right wing parties in previous state elections in a constituency has a positive impact on the electoral success of the AfD.
 
 
@@ -90,6 +88,6 @@ We acess the electoral data via the State Offices for Statistic in Baden-Württe
 The Federal Returning Officer [@Bwldata] offers data on constituency level containing information on the unemployment rate, the level of education, and business tax (which we will use as a proxy for local taxation).
 The Federal Statistical Office DESTATIS [@DESTATIS] provides data on the number of refugees in the constituencies. This data is available on county level, which is why will disaggregate the data according to the population size in each constituency.
 
-After merging the data, we will first analyse descriptive statistics in the form of maps, graphs, and distributions in order to provide a basic overview of the trends in the data. We then will perform OLS estimations for different linear models, testing our aforementioned hypotheses.
+After merging the data, we will first analyse descriptive statistics in the form of maps, graphs, and distributions in order to provide a basic overview of the trends in the data. Since our dependent variable is vote share of AfD, we will perform OLS estimations and run different linear models. Besides, we expect to run interactions model to testing our aforementioned hypotheses.
 
 # References
