@@ -1,0 +1,87 @@
+Swank 2003
+
+Theory part screeing later in order to find things on the questions
+
+
+p.226 
+Emprical models and measurements
+
+
+focus on RRWP vote shares in national parliamentary elections in 16 West
+European nations between 1981 and 1998.
+
+--> This analysis is quite old. Do similar findings hold for the AfD success
+in the German state elections in 2016?
+
+central propositions about internationalization and its mediation by welfare
+state structures:
+	Several factors highlighted in the theoretical, case study and
+	quantiative literatures on the rise of the new far right
+
+--> AfD as a possible "late comer" in the European arena? Do similar factors 
+apply, or did the Eurocrisis and Refugee Crisis pose new challenges.
+
+
+
+general model of RRWP vote shares:
+Electoral success will be directly influenced by a set of domestic economic and
+political forces
+- Post-industrialization: focus on highly-skilled workforce in economy
+	potential loss of social status for those in traditional occupation
+- economic growth and unemployment rates highlighted in some of the quantitative 
+  analyses --> control for macro-economic performance (sources)
+p. 227
+- control for the effects of proportional representation (PR)
+- "new left party success will be related to subsequent rises in RRWP party
+  vote shares"
+- Kitschelt (1995): Established right -> embracing centrist policies -> allow
+  RRWP parties to capture terrain of neoliberal reform
+	Where established right weak/in decline --> more success of RRWP
+p. 228
+
+RRWP = lag (not possible), Tradeopenness (hmm), CapMob (?), Foreign (?),
+Welstate (!), manufact, growth, prorep, leftlib, right, taxation, error
+
+- Lag to correct serially correlated errors
+- Trade-openness (not possible), capital mobility (not possible)
+- Foreign: Inflows of asylum seekers and refugees (proportion to population x1000)
+-> effects of European economic integration
+- Welfare state intensity
+- percentage of wage and salary workers in manufakturing (lagged)
+- economic growth (lagged) (post 1973 deterioration of macro economic
+  performance argument), 
+p.229
+  unemployment
+- prorep - character of the electoral system 
+--> are there differences in state vote in the three contexts?
+- leftlib voteshare in previous election (?)
+- electoral strength of right, elections of previous years
+- tax backlash literature, --> data on taxation?
+
+
+Estimation
+
+--> 
+OLS estimation of a linear model ? Mujahed might know more.
+Controlling for the specific state?
+
+
+p. 230 
+Findings!
+- Volume of refugees and asylum seekers systematically and positively
+- international immigration relatively large 
+--> rate of foreigners as positive or negative impact?
+- direct effect of the welfare state (like labor market programmes --> less RRWP)
+- manufacturing not as strong
+- slow economic growth not related
+- left libertarian and tax burdens signficant
+- electoral success of established right parties in rec. el. not significant in
+  baseline model
+- past RRWP highly significant
+
+p. 238
+Conclusions
+Globalization significant domestic political effects -> more RRWP
+
+
+
