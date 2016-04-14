@@ -1,15 +1,13 @@
 ---
-title: "Assignment 2 - Research Proposal on "What does explain the recent electoral success of the AfD in the different state constituencies of Germany"
-author: "Md Mujahedul Islam" "Johannes Schulz-Knappe"
+title: 'Assignment 2 - Research Proposal'
+author: "Md Mujahedul Islam & Johannes Schulz-Knappe"
 date: "April 14, 2016"
 output: 
-  pdf_document:
-    toc: true
-    number_sections: true
-    fig_captions: true
+  pdf_document
 bibliography: 
-  - Library.bib
+  Library.bib
 ---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -17,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction
 
-Within less than three years of being founded by discontented members of the incumbent Christian Democratic Union (CDU), the newly-formed Alternative for Germany (AfD) party has already achieved extraordinary vote share in the General election of 2013, European Parliament election of 2014, [@article{arzheimer2015afd,] and  lately in the three state elections in Baden-Württemberg, Rhineland-Palatinate, and Saxony-Anhalt held on March 2016. The rise of a party that stands against European Integration, argues for a re-arrangement of Germany's liberal foreign and economic policies, and vows for talking strong measure against immigrants, has presented a novel scenario into understanding factors that drive electorate to vote for a party that seemingly stands against the 'norm of the land'. Thus this research proposal endeavors to understand the factors that explain the success and rise of AfD in Germany's political landscape. In the following, this proposal introduces the topic to be researched, provides information on its relevance, presents current literature, and identifies the plausible datasets and methodology that this research is going to base on. All work is done using the software R [@CiteR].
+Within less than three years of being founded by discontented members of the incumbent Christian Democratic Union (CDU), the newly-formed Alternative for Germany (AfD) party has already achieved extraordinary vote share in the General election of 2013, European Parliament election of 2014, [@arzheimer2015afd] and  lately in the three state elections in Baden-Württemberg, Rhineland-Palatinate, and Saxony-Anhalt held on March 2016. The rise of a party that stands against European Integration, argues for a re-arrangement of Germany's liberal foreign and economic policies, and vows for talking strong measure against immigrants, has presented a novel scenario into understanding factors that drive electorate to vote for a party that seemingly stands against the 'norm of the land'. Thus this research proposal endeavors to understand the factors that explain the success and rise of AfD in Germany's political landscape. In the following, this proposal introduces the topic to be researched, provides information on its relevance, presents current literature, and identifies the plausible datasets and methodology that this research is going to base on. All work is done using the software R [@CiteR].
 
 # The Research Project
 
@@ -72,12 +70,8 @@ Political hypotheses
 
 > *H4a*: The rate of non-voters in previous state elections in a constituency has a positive impact on the electoral success of the AfD.
 
-<<<<<<< HEAD
 > *H4b*: Declining voteshare of established right wing parties in previous state elections in a constituency has a positive impact on the electoral success of the AfD.
-=======
-> *H4c*: Declining voteshare of established right wing parties in previous state elections in a constituency has a positive impact on the electoral success of the AfD.
 
->>>>>>> origin/master
 
 # Data sources and Methodology
 
@@ -85,6 +79,6 @@ We acess the electoral data via the State Offices for Statistic in Baden-Württem
 The Federal Returning Officer [@Bwldata] offers data on constituency level containing information on the unemployment rate, the level of education, and business tax (which we will use as a proxy for local taxation).
 The Federal Statistical Office DESTATIS [@DESTATIS] provides data on the number of refugees in the constituencies. This data is available on county level, which is why will disaggregate the data according to the population size in each constituency.
 
-After merging the data, we will first analyse descriptive statistics in the form of maps, graphs, and distributions in order to provide a basic overview of the trends in the data. Since our dependent variable is vote share of AfD, we will perform OLS estimations and run different linear models. Besides, we expect to run interactions model to testing our aforementioned hypotheses.
+After merging the data, we will first analyse descriptive statistics in the form of maps, graphs, and distributions in order to provide a basic overview of the trends in the data. Since our dependent variable is vote share of AfD, we will perform OLS estimations and run different linear models. Besides, we expect to run interactions model in order to test our aforementioned hypotheses.
 
 # References
