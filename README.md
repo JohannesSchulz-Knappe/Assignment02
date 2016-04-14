@@ -6,6 +6,9 @@
 
 #### By: Md Mujahedul Islam & Johannes Schulz-Knappe
 
+
+### Title: What does explain the recent electoral success of the AfD in the different state constituencies of Germany? 
+
 ### Description of the project
 
 This repository is created for the second pair assignment of the course [MPP-E1180: Introduction to Collaborative Social Science Data Analysis](https://github.com/HertieDataScience/SyllabusAndLectures), taught by [Christopher Gandrud](https://github.com/christophergandrud). This readme file clearly elucidates our work done for this assignment.
