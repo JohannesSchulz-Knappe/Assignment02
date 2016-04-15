@@ -19,7 +19,7 @@ The task for this assignment is to present a proposal for our Collaborative Rese
 
 Besides this readme, there are three files in the repository
 
-- [Assignment02_Rmarkdown.pdf](https://github.com/JohannesSchulz-Knappe/Assignment02/blob/master/Assignment02.pdf) is the main research proposal pdf-document.
+- [Assignment02_Rmarkdown.pdf](https://github.com/JohannesSchulz-Knappe/Assignment02/blob/master/Assignment02_Rmarkdown.pdf) is the main research proposal pdf-document.
 - [Assignment02.Rmd](https://github.com/JohannesSchulz-Knappe/Assignment02/blob/master/Assignment02.Rmd) is a mark up document which contains the research proposal in raw form
 - [Library.bib](https://github.com/JohannesSchulz-Knappe/Assignment02/blob/master/Library.bib) contains the relevant references for our study in BibTeX format
 
