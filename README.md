@@ -2,12 +2,12 @@
 
 ### Spring 2016
 
-**Version: 14 April 2016**
+**Version: 15 April 2016**
 
 #### By: Md Mujahedul Islam & Johannes Schulz-Knappe
 
 
-### Title: What does explain the recent electoral success of the AfD in the different state constituencies of Germany? 
+### Title: What explains the recent electoral success of the Alternative for Germany? 
 
 ### Description of the project
 
@@ -17,12 +17,13 @@ The task for this assignment is to present a proposal for our Collaborative Rese
 
 ### Documents in the repository
 
-Besides this readme, there are two files in the repository
+Besides this readme, there are three files in the repository
 
-- [Assignment02.Rmd](https://github.com/JohannesSchulz-Knappe/Assignment02/blob/master/Assignment02.Rmd) which contains main research proposal
-- [Library.bib](https://github.com/JohannesSchulz-Knappe/Assignment02/blob/master/Library.bib) which contains the relevant references for our study. 
+- [Assignment02.pdf](https://github.com/JohannesSchulz-Knappe/Assignment02/blob/master/Assignment02.pdf) is the main research proposal pdf-document.
+- [Assignment02.Rmd](https://github.com/JohannesSchulz-Knappe/Assignment02/blob/master/Assignment02.Rmd), which contains the main research proposal as a markup document
+- [Library.bib](https://github.com/JohannesSchulz-Knappe/Assignment02/blob/master/Library.bib), which contains the relevant references for our study. 
 
 ### Limitations and progress of the project
 
-During the work on this project, we faced mainly two obstacles: 1) The restricted availability of one of us to contribute to the project due to extended illness, and 2) the difficulty of finding an adequate research question. After trying to access several electoral datasets on European level, we decided to narrow the scope of our research project down in order to keep data cleaning work at a reasonable level and to deal with a more pronounced research question. The substantial electoral success of a very young party in the German states in March 2016 finally inspired us to the research question presented in the proposal.
+During the work on this project, we faced mainly two obstacles: 1) The restricted availability of one of us to contribute to the project due to extended illness, and 2) the difficulty of finding an adequate research question. After trying to access several electoral datasets on European level, we decided to narrow the scope of our research project down in order to keep data cleaning work at a reasonable level and to deal with a more pronounced research question. The substantial electoral success of the Alternative for Germany (AfD) in three German states in March 2016 inspired us to the research question presented in the proposal.
 
