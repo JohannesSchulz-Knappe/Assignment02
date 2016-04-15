@@ -23,6 +23,8 @@ Besides this readme, there are three files in the repository
 - [Assignment02.Rmd](https://github.com/JohannesSchulz-Knappe/Assignment02/blob/master/Assignment02.Rmd) is a mark up document which contains the research proposal in raw form
 - [Library.bib](https://github.com/JohannesSchulz-Knappe/Assignment02/blob/master/Library.bib) contains the relevant references for our study in BibTeX format
 
+We have also written the same proposal in LaTex which can be found in the repository under the name [Assignment02.tex] (https://github.com/JohannesSchulz-Knappe/Assignment02/blob/master/Assignment02.tex). 
+
 ### Limitations and progress of the project
 
 During the work on this project, we faced mainly two obstacles: 1) The restricted availability of one of us to contribute to the project due to extended illness, and 2) the difficulty of finding an adequate research question. After trying to access several electoral datasets on European level, we decided to narrow the scope of our research project down in order to keep data cleaning work at a reasonable level and to deal with a more pronounced research question. The substantial electoral success of the Alternative for Germany (AfD) in three German states in March 2016 inspired us to the research question presented in the proposal.
